@@ -1,0 +1,47 @@
+baseurl = "localhost"
+languageCode = "en"
+title = "It's my life"
+subtitle = "now or never"
+paginate = 5
+DisqusShortname = "Arindam"
+Copyright = "All rights reserved - 2015"
+theme = "casper"
+[params]
+  description = "Drinking a sip of coffee."
+  cover = "images/arindam.jpg"
+  author = "Arindam Pradhan"
+  authorlocation = "Bhubaneswar, India"
+  authorwebsite = "www.arindam.io"
+  bio= "Open source enthusiast."
+  logo = "images/logo.gif"
+  googleAnalyticsUserID = ""
+  githubName = "arindampradhan"
+  twitterName = "rrindam"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  weight = 100
+  pre = "<h3>Follow me</h3>"
+  name = "Github"
+  url = "https://github.com/arindampradhan"
+
+[[menu.main]]
+  name = "Twitter"
+  weight = 100
+  url = "https://twitter.com/rrindam"
+
+[[menu.main]]
+  name = "Google+"
+  weight = 100
+  url = "https://plus.google.com/+ArindamPradhanIM/"
