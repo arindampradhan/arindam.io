@@ -1,13 +1,13 @@
 baseurl = "localhost"
 languageCode = "en"
-title = "It's my life"
+title = "Arindam Pradhan"
 subtitle = "now or never"
 paginate = 5
 DisqusShortname = "Arindam"
 Copyright = "All rights reserved - 2015"
 theme = "casper"
 [params]
-  description = "Drinking a sip of coffee."
+  description = "I am so Awesome!"
   cover = "images/arindam.jpg"
   author = "Arindam Pradhan"
   authorlocation = "Bhubaneswar, India"

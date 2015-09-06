@@ -1,7 +1,7 @@
 +++
 title = "I am Arindam"
 slug = "about"
-image = "images/about/arindam.jpg"
+image = "images/about/about.jpg"
 
 draft = false
 comments=false
@@ -10,16 +10,28 @@ menu= "main"
 noauthor=true
 +++
 
-\ 
+\
 
 &nbsp;
-\ 
+\
 
 &nbsp;
 
-m dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi ,I am Arindam Pradhan 20, I live in a small town Bhubaneswar in India. I am an electrical 
+engineer undergraduate at [CET,Bhubaneswar](http://cet.edu.in/).
+
+I have a keen intrest on FOOS and Competitive Programming. I enjoy programming because it's fun, 
+keeps me focused and calm. Have a look at my [github](https://github.com/arindampradhan), these are 
+some of my *works*. Currenty I am self teaching, I follow mostly blogs, tutorials and github 
+projects. I easily get motivated a lot and my dream is to be the best programmer, master a single 
+language and write lots(tons) of code.
+
+I am a foodie and love french fries, hell ya I love playing games and try to complete them in a day. 
+So, I get addicted to lots of caffine and coke. </p>
+
+>Contact me
+
+If you want to get in touch, send [an email](mailto:arindampradhan10@gmail.com).
+Arindam is  on [twitter](https://twitter.com/rrindam), [google+](https://plus.google.
+com/+ArindamPradhanIM/) and posts intresting stuffs. Intrested in doing *projects*, you can always 
+*contact me*.
