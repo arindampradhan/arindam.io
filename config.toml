@@ -1,11 +1,13 @@
-baseurl = "localhost"
+baseurl = "http://arindampradhan.github.io/"
 languageCode = "en"
+publishdir = "public"
 title = "Arindam Pradhan"
-subtitle = "now or never"
 paginate = 5
 DisqusShortname = "Arindam"
 Copyright = "All rights reserved - 2015"
 theme = "casper"
+canonifyurls = true
+
 [params]
   description = "I am so Awesome!"
   cover = "images/arindam.jpg"

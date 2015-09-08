@@ -3,6 +3,7 @@
     <a href="#" class="nav-close">
         <span class="hidden">Close</span>
     </a>
+    
     <ul>
         {{ $currentNode := . }}
         
@@ -13,7 +14,14 @@
             </li>
         {{end}}
     </ul>
-    
+
+    <ul>
+    <h3>Tags</h3>
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <code><a href="/tags/{{ $name | urlize }}" style="font-size: 115%;">{{ $name }}</a></code>
+    {{ end }}
+    </ul>
+
     {{ if .Site.Params.RSSLink}}
     <a class="subscribe-button icon-feed" href="{{.Site.Params.RSSLink }}">Subscribe</a> </div>
     {{else}}

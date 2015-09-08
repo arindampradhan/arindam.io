@@ -1,7 +1,7 @@
 +++
 title = "I am Arindam"
 slug = "about"
-image = "images/about/arindam.jpg"
+image = "images/about/about.jpg"
 
 draft = false
 comments=false
